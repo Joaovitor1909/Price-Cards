@@ -15,10 +15,6 @@ Esse é o meu **terceiro projeto** desenvolvendo com HTML e CSS puro! O objetivo
 - HTML5
 - CSS3
 
-## 📷 Demonstração
-
-(Adicione aqui um print da página pronta, com layout completo dos cards)
-
 ## 📂 Como visualizar o projeto
 
 Você pode **baixar o repositório** ou **clonar com Git**:
